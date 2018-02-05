@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "Andrew Mead",
   "license": "MIT",
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://munkhtegsh.github.io/indecision-app",
   "scripts": {
     "serve": "live-server public/",
     "build": "webpack",
